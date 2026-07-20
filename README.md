@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Abduljaha Parchuru
 
-<h3 align="center">AI Engineer | Generative AI Developer | Python & .NET Full Stack Developer</h3>
+<h3 align="center">AI Engineer | Generative AI Developer | Python </h3>
 
 <p align="center">
 Building intelligent AI applications using LLMs, RAG, AI Agents, Machine Learning, and Full Stack Development.
