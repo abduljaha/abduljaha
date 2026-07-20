@@ -1,60 +1,67 @@
+
+
 # Hi 👋, I'm Abduljaha Parchuru
 
 <h3 align="center">AI Engineer | Generative AI Developer | Python & .NET Full Stack Developer</h3>
 
 <p align="center">
-Building intelligent AI applications using LLMs, RAG, Machine Learning, and Full Stack Development.
+Building intelligent AI applications using LLMs, RAG, AI Agents, Machine Learning, and Full Stack Development.
+</p>
+
+<p align="center">
+<a href="https://github.com/abduljaha">
+<img src="https://komarev.com/ghpvc/?username=abduljaha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 **B.Tech Computer Science & Engineering Graduate**
-- 💼 **AI & Generative AI Developer Intern**
-- 🤖 Passionate about **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **AI Agents**, and **Machine Learning**
-- 🌱 Currently exploring **Agentic AI, LangGraph, MCP, Advanced RAG, and AI System Design**
-- 💡 I enjoy building scalable AI applications that solve real-world problems.
-- 🎯 Goal: Become a highly skilled **AI/ML Engineer** specializing in Generative AI.
+- 🎓 B.Tech Computer Science & Engineering Graduate
+- 💼 AI & Generative AI Developer Intern
+- 🤖 Passionate about Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, and Machine Learning
+- 🌱 Currently learning Agentic AI, LangGraph, MCP, Advanced RAG, and AI System Design
+- 💡 Building intelligent AI applications that solve real-world problems
+- 🎯 Aspiring AI/ML Engineer specializing in Generative AI
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-### 🤖 Artificial Intelligence & Generative AI
+## 🤖 Artificial Intelligence & Generative AI
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-Pipeline-blue?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge)
 
 ---
 
-### 📊 Machine Learning & Deep Learning
+## 🧠 Machine Learning & Deep Learning
 
 - Machine Learning
 - Deep Learning
 - Neural Networks
 - Computer Vision
-- Scikit-learn
 - TensorFlow
 - Keras
+- Scikit-learn
 - OpenCV
 
 ---
 
-### 🌐 Backend & Full Stack
+## 🌐 Backend & Full Stack
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 
 ---
 
-### 🗄 Database & Tools
+## 🗄️ Database & Tools
 
 - MySQL
 - Git & GitHub
@@ -62,73 +69,90 @@ Building intelligent AI applications using LLMs, RAG, Machine Learning, and Full
 - VS Code
 - Jupyter Notebook
 - IIS Hosting
+- Vibe Coding
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured GitHub Projects
 
-## 🧑‍💻 Face Recognition Attendance System
+> **💡 Replace the repository names below with your actual repository names if they are different.**
 
-**Tech Stack**
+### 🤖 AI Personal Chatbot
+
+🔗 **Repository:** https://github.com/abduljaha/AI-Personal-Chatbot
+
+- Context-aware AI chatbot
+- Knowledge-base search
+- Context compression
+- Prompt Engineering
+- OpenRouter LLM Integration
+
+---
+
+### 📄 Resume RAG Chatbot
+
+🔗 **Repository:** https://github.com/abduljaha/Resume-RAG-Chatbot
+
+- Retrieval-Augmented Generation (RAG)
+- Resume Question Answering
+- Semantic Search
+- Accurate LLM Responses
+
+---
+
+### 🎫 AI Ticket Classification System
+
+🔗 **Repository:** https://github.com/abduljaha/AI-Ticket-Classification
+
+- Intelligent ticket grouping
+- NLP & Prompt Engineering
+- AI-based customer support automation
+
+---
+
+### 👤 Face Recognition Attendance System
+
+🔗 **Repository:** https://github.com/abduljaha/Face-Recognition-Attendance-System
 
 - FastAPI
-- Deep Learning
 - OpenCV
 - ONNX
-- MySQL
-
-✔ Developed a real-time facial recognition attendance system.
-
-✔ Automated attendance logging using computer vision.
+- Deep Learning
+- Real-time attendance automation
 
 ---
 
-## 🩺 LLM Health Analysis System
+### 🩺 LLM Health Analysis System
 
-**Tech Stack**
+🔗 **Repository:** https://github.com/abduljaha/LLM-Health-Analysis-System
 
-- Python
+- Gemini AI
 - LangChain
-- Gemini
 - Streamlit
-
-✔ Built an AI-powered health assistant.
-
-✔ Implemented conversation memory and prompt engineering.
-
-✔ Added safety guardrails for responsible AI responses.
+- Conversation Memory
+- Safe AI Responses
 
 ---
 
-## 🌐 Service Information Portal
+### 📊 Machine Learning & Deep Learning Portfolio
 
-**Tech Stack**
+🔗 **Repository:** https://github.com/abduljaha/ML-DL-Projects
 
-- Python
-- Django
-- HTML
-- CSS
-
-✔ Developed a responsive web application for service information management.
-
----
-
-## 📈 Machine Learning Portfolio
-
-**Tech Stack**
-
-- Python
-- TensorFlow
-- Scikit-learn
-- Keras
-
-Projects include:
+Projects include
 
 - Classification
 - Regression
 - Clustering
-- Data Analysis
-- Model Evaluation
+- Computer Vision
+- Deep Learning
+
+---
+
+## 📂 More Projects
+
+👉 Explore all my repositories
+
+**https://github.com/abduljaha?tab=repositories**
 
 ---
 
@@ -138,15 +162,15 @@ Projects include:
 
 **Talent Smart Soft Solutions**
 
-📅 May 2026 – Present
+**May 2026 – Present**
 
 ### Responsibilities
 
 - Developing LLM-powered applications
 - Building Retrieval-Augmented Generation (RAG) pipelines
 - Prompt Engineering
-- NLP using Transformer models
-- Working on production-ready AI applications
+- Transformer-based NLP applications
+- Working on production-ready AI solutions
 
 ---
 
@@ -160,25 +184,25 @@ Malineni Perumallu Educational Society's Group of Institutions
 
 # 📜 Certifications
 
-- Python – FreeCodeCamp
-- Front-End Development – Smart Internz
-- Python for Data Science – IBM Cognitive Class
+- 🏅 Python – FreeCodeCamp
+- 🏅 Front-End Development – Smart Internz
+- 🏅 Python for Data Science – IBM Cognitive Class
 
 ---
 
 # 🌱 Currently Learning
 
-- Agentic AI
 - AI Agents
+- Agentic AI
 - LangGraph
-- MCP (Model Context Protocol)
+- Model Context Protocol (MCP)
 - Advanced Prompt Engineering
 - Advanced RAG
 - AI System Design
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
 
@@ -200,11 +224,29 @@ Malineni Perumallu Educational Society's Group of Institutions
 
 ---
 
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abduljaha&theme=tokyo-night"/>
+
+</p>
+
+---
+
 # 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abduljaha-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abduljahaparchuru)
+<p>
 
-📧 **Email:** parchuruabduljaha786@gmail.com
+<a href="https://www.linkedin.com/in/abduljahaparchuru">
+<img src="https://img.shields.io/badge/LinkedIn-Abduljaha-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:parchuruabduljaha786@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
 
 ---
 
@@ -216,17 +258,19 @@ Malineni Perumallu Educational Society's Group of Institutions
 
 🎬 Movie Buff
 
-☕ Always learning new AI technologies.
+☕ Passionate about learning and building AI-powered applications.
 
 ---
 
 <p align="center">
 
-⭐ If you like my projects, consider giving them a Star ⭐
+### ⭐ Thanks for visiting my profile!
 
-</p>
+If you like my work, don't forget to ⭐ my repositories.
 
-<!--
+🚀 **Let's build the future with AI!**
+
+</p><!--
 **abduljaha/abduljaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
