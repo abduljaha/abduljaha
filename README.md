@@ -38,7 +38,6 @@ Building intelligent AI applications using LLMs, RAG, AI Agents, Machine Learnin
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-Pipeline-blue?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge)
-![LangGraph]
 
 ---
 
