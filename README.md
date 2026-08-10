@@ -31,13 +31,27 @@ Building intelligent AI applications using LLMs, RAG, AI Agents, Machine Learnin
 
 ## 🤖 Artificial Intelligence & Generative AI
 
+## 💻 Tech Stack
+
+### 🤖 Artificial Intelligence & Generative AI
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Pipeline-blue?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0088CC?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Embeddings](https://img.shields.io/badge/Embeddings-6A5ACD?style=for-the-badge)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-4B0082?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-00A67E?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-5C5CFF?style=for-the-badge)
+![Fine Tuning](https://img.shields.io/badge/Fine--Tuning-E34F26?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge)
 
 ---
 
