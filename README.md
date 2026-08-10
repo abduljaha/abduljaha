@@ -27,10 +27,6 @@ Building intelligent AI applications using LLMs, RAG, AI Agents, Machine Learnin
 
 ---
 
-# 💻 Tech Stack
-
-## 🤖 Artificial Intelligence & Generative AI
-
 ## 💻 Tech Stack
 
 ### 🤖 Artificial Intelligence & Generative AI
