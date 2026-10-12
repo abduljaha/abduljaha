@@ -182,6 +182,21 @@ Projects include
 - Transformer-based NLP applications
 - Working on production-ready AI solutions
 
+## Python Developer Intern
+
+**The Developer's Arena**
+
+**Jul 2025 – Jan 2026**
+
+### Responsibilities
+
+- Developing Python applications and reusable modules.
+- Automating tasks using Python scripts and libraries.
+- Integrating REST APIs and working with SQL databases.
+- Implementing error handling, debugging, and code optimization.
+- Using Git and GitHub for version control and collaborative development.
+- Exploring Python-based AI application development and intelligent automation.
+
 ---
 
 # 🎓 Education
@@ -194,9 +209,12 @@ Malineni Perumallu Educational Society's Group of Institutions
 
 # 📜 Certifications
 
+- 🏅 Data Analyst Associate – Databricks
+- 🏅 Data Engineering Associate – Databricks
 - 🏅 Python – FreeCodeCamp
 - 🏅 Front-End Development – Smart Internz
 - 🏅 Python for Data Science – IBM Cognitive Class
+
 
 ---
 
