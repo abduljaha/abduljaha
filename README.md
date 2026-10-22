@@ -211,6 +211,7 @@ Malineni Perumallu Educational Society's Group of Institutions
 
 - 🏅 Data Analyst Associate – Databricks
 - 🏅 Data Engineering Associate – Databricks
+- 🏅 Generative AI Associate – Databricks
 - 🏅 Python – FreeCodeCamp
 - 🏅 Front-End Development – Smart Internz
 - 🏅 Python for Data Science – IBM Cognitive Class
